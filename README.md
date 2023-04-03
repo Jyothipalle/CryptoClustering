@@ -1,3 +1,5 @@
+week 19 challenge 19 Author Jyothi Palle
+
 # CryptoClustering
 Preparing the Data
 Using the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
